@@ -1,9 +1,6 @@
 :root {
     /* Color Palette */
     --primary-color: #1D3557;
-    --secondary-color: #457B9D;
-    --accent1-color: #A8DADC;
-    --accent2-color: #F1FAEE;
     /* Fonts */
     --heading-font: Georgia, serif;
     --body-font: Arial, Helvetica, sans-serif;
